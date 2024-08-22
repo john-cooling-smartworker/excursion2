@@ -1,0 +1,49 @@
+/* Challenge Code Academy web site from scratch and publish on github
+ 
+
+*/
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Verdana', sans-serif;
+    font-weight: 500;
+    background: Black;
+    text-align: center;
+    width: 1024px;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 0;
+    color: white;
+    text-align: center;
+}
+
+h2{
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
+}
+
+a {
+  color:aquamarine;
+  font-size: 16px;
+}
+
+.gray__p {
+  font-size: 21px;
+  color:Gray;
+}
+.copywrite {
+    color: Gray;
+    text-align: right;
+}
+
